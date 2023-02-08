@@ -15,4 +15,6 @@ hello git!
 
 how are you?
 
-i'm find,and you?
+i'm fine,and you?
+
+i'm fine too,thanks.
